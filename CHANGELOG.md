@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 
 ## [2.2.0](https://github.com/DuanLangC/AK_RxSwiftUtilities/releases/tag/2.2.0) (Xcode 10 / Swift 5 compatible)
 
-* Add two-way binding operator `<->`
+* Update to Swift 5
 
 ## [master](https://github.com/RxSwiftCommunity/RxSwiftUtilities/tree/master) (Xcode 10 / Swift 4.2 compatible)
 
